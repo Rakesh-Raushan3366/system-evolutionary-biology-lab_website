@@ -45,7 +45,7 @@ The goal of this website is to serve as an accessible digital portal for student
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-
+   ```bash
    git clone https://github.com/yourusername/system-evolutionary-biology-lab.git
    cd system-evolutionary-biology-lab
 
