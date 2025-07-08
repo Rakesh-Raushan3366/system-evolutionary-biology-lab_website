@@ -1,51 +1,57 @@
-# 🧬 System and Evolutionary Biology Lab – Official Website
+# 🔬 Multidisciplinary Biology Lab – Research Website (JNU) (Official website)
 
-This repository contains the source code for the **System and Evolutionary Biology Lab** website. The site showcases the lab’s mission, ongoing research, team members, scientific publications, academic collaborations, and outreach initiatives in the fields of **systems biology** and **evolutionary biology**.
+A modern, responsive website developed for a **multidisciplinary biology research lab** at **Jawaharlal Nehru University (JNU)**. This platform highlights the lab's work in **systems biology**, **green nanobiotechnology**, **infectious biology**, and **clinical Ayurveda**, aiming to bridge traditional knowledge with modern science to support global health and sustainability.
 
-🌐 **Live URL**: _[Add when hosted]_  
-🧑‍🔬 **Focus Areas**: Systems Biology, Evolutionary Genetics, Bioinformatics, Molecular Biology
-
----
-
-## 🔍 Project Overview
-
-The goal of this website is to serve as an accessible digital portal for students, collaborators, researchers, and the scientific community. It is designed to:
-
-- Highlight the lab's research and publications
-- Share updates, seminars, and events
-- Introduce the team and alumni
-- Provide contact and collaboration information
+🌐 **Live Website**: _[Add URL if hosted]_  
+🏛️ **Institution**: Jawaharlal Nehru University (JNU), India
 
 ---
 
-## ✨ Key Features
+## 🧬 Project Overview
 
-- 🏠 **Home Page** – Lab overview and mission statement
-- 🧪 **Research** – Descriptions of current and past research projects
-- 📚 **Publications** – List of peer-reviewed papers with links
-- 👩‍🔬 **Team** – Faculty, researchers, PhD scholars, and alumni
-- 📆 **Events** – Upcoming seminars, workshops, and news
-- 📧 **Contact** – Email, address, and social media links
-- 📱 **Fully Responsive** – Optimized for all devices using Bootstrap 5
+This project delivers a web-based platform to promote the lab’s research and engage the academic community, policy makers, and the general public. The website emphasizes **data-driven research**, **eco-friendly innovations**, and the **fusion of traditional systems (AYUSH)** with modern scientific advancements.
+
+---
+
+## 🧪 Key Research Areas
+
+- 🔹 **Systems Biology** – Modeling complex biological systems using computational and experimental approaches
+- 🌿 **Green Nanobiotechnology** – Eco-safe nanomaterials and plant-based nanoparticle synthesis
+- 🧫 **Infectious Biology** – Host-pathogen interactions, molecular diagnostics, and public health applications
+- 🩺 **Clinical Ayurveda** – Evidence-based studies combining Ayurveda principles with biomedical science
+
+---
+
+## 🌟 Website Features
+
+- 📄 **Research Overview Pages** for each theme
+- 👩‍🔬 **Team Section** featuring faculty, PhD scholars, and collaborators
+- 📚 **Publication Archive** with DOI links and journal details
+- 🧠 **Projects & Grants** listed by funding agency
+- 📸 **Photo Gallery** of lab activities and events
+- 📅 **Events/News Section** for seminars, workshops, and achievements
+- 📧 **Contact Page** with inquiry form and social media links
+- ✅ **Responsive Design** using **Bootstrap 5** for mobile/tablet compatibility
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer     | Technology Used      |
-|-----------|-----------------------|
-| Structure | HTML5                 |
-| Styling   | CSS3, Bootstrap 5     |
-| Behavior  | JavaScript (vanilla)  |
-| Assets    | Custom Icons/Images   |
-| Hosting   | Internal Server / GitHub Pages (optional) |
+| Layer     | Technology Used         |
+|-----------|--------------------------|
+| Frontend  | HTML5, CSS3, Bootstrap 5 |
+| Scripting | JavaScript (Vanilla)     |
+| Hosting   | Internal Server / GitHub Pages |
+| Tools     | Adobe XD (optional for UI), Canva, Figma (for design mockups) |
 
 ---
 
-## 🚀 Getting Started
+---
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/system-evolutionary-biology-lab.git
-   cd system-evolutionary-biology-lab
+## ⚙️ How to Use
 
+### 🔹 Clone & View Locally
+
+```bash
+git clone https://github.com/yourusername/jnu-biology-lab-website.git
+cd jnu-biology-lab-website
