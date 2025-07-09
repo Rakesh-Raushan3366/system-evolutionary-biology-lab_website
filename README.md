@@ -1,6 +1,6 @@
 # 🔬 Multidisciplinary Biology Lab – Research Website (JNU) (Official website)
 
-![Multidisciplinary Logo](assets/img/logo.png)
+![Multidisciplinary Logo](assets/img/jnu_logo2.jpeg)
 
 A modern, responsive website developed for a **multidisciplinary biology research lab** at **Jawaharlal Nehru University (JNU)**. This platform highlights the lab's work in **systems biology**, **green nanobiotechnology**, **infectious biology**, and **clinical Ayurveda**, aiming to bridge traditional knowledge with modern science to support global health and sustainability.
 
